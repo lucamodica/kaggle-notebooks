@@ -1,2 +1,2 @@
 # Notebooks experiments
-Repo for my Jupyter notebooks experiments of various field (from EDA to using ML different models). Most of them are from kaggle and uploaded to the platform!
+Jupyter notebooks experiments about various fields,: EDAs, using ML different models and much more. Most of them are from kaggle and uploaded to the platform!
